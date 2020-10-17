@@ -1,4 +1,4 @@
-const int pinNumber = 13;
+const int pinNumber = 12;
 
 void setup() {
   // put your setup code here, to run once:
