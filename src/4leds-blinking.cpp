@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #define LED1_PIN 6
 #define LED2_PIN 7
 #define LED3_PIN 12

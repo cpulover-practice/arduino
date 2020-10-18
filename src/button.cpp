@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #define BUTTON_PIN 7
 #define LED_PIN 13
 

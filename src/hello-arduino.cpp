@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 const int pinNumber = 12;
 
 void setup() {
