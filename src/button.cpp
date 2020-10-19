@@ -1,7 +1,7 @@
 // #include <Arduino.h>
 
-// #define BUTTON_PIN 7
-// #define LED_PIN 11
+// #define BUTTON_PIN 2
+// #define LED_PIN 13
 
 // bool isOn = false;
 // void setup()
